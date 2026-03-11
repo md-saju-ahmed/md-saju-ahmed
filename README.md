@@ -61,21 +61,21 @@ Source Code: https://github.com/md-saju-ahmed/tech-wave
     </td>
   </tr>
   <tr>
-    <td align="center" width="90">
+    <!--<td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"><br>Next.js
-    </td>
+    </td>-->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=astro" width="45" height="45" alt="Astro"><br>Astro
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"><br>Node.js
     </td>
-    <td align="center" width="90">
+    <!--<td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"><br>Express
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"><br>MongoDB
-    </td>
+    </td>-->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"><br>Firebase
     </td>
