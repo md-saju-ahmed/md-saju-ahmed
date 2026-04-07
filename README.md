@@ -49,9 +49,9 @@ I build modern, scalable web applications with a focus on **performance**, **acc
     </td>
   </tr>
   <tr>
-    <!--<td align="center" width="90">
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"><br>Next.js
-    </td>-->
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=astro" width="45" height="45" alt="Astro"><br>Astro
     </td>
@@ -63,10 +63,10 @@ I build modern, scalable web applications with a focus on **performance**, **acc
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"><br>MongoDB
-    </td>-->
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"><br>Firebase
-    </td>
+    </td>-->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery"><br>jQuery
     </td>
@@ -105,9 +105,9 @@ I build modern, scalable web applications with a focus on **performance**, **acc
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare"><br>Cloudflare
     </td>
-    <td align="center" width="90">
+    <!--<td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"><br>AWS
-    </td>
+    </td>-->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=notion" width="45" height="45" alt="Notion"><br>Notion
     </td>
