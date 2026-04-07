@@ -145,6 +145,11 @@ I build modern, scalable web applications with a focus on **performance**, **acc
       </a><br>Twitter
     </td>
     <td align="center" width="90">
+      <a href="https://web.facebook.com/themdsajuahmed/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" alt="Facebook">
+      </a><br>Facebook
+    </td>
+    <td align="center" width="90">
       <a href="https://dev.to/mdsajuahmed" target="_blank">
         <img src="https://skillicons.dev/icons?i=devto" width="45" height="45" alt="Dev.to">
       </a><br>Dev.to
