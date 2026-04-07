@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/md-saju-ahmed"><img src="https://img.shields.io/badge/GitHub-Follow-111?style=for-the-badge&logo=github&logoColor=white"></a>
-  <!--<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>-->
+  <a href="mailto:contact.mdsajuahmed@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/themdsajuahmed"><img src="https://img.shields.io/badge/Facebook-Contact-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
@@ -14,23 +14,11 @@
 
 ## 🚀 About Me
 
-I build modern, scalable web applications with a focus on **performance**, **accessibility**, and **clean
-architecture**.
+I build modern, scalable web applications with a focus on **performance**, **accessibility**, and **clean architecture**.  
 
-I enjoy transforming ideas into reliable products using JavaScript technologies across the full stack.
-
-
----
-
-## 📌 Featured Projects
-
-🔹 **TechWave**  
-Modern Podcast Website Design  
-Tech: HTML, CSS  
-Live Demo: https://md-saju-ahmed.github.io/tech-wave/  
-Source Code: https://github.com/md-saju-ahmed/tech-wave  
-
-👉 Explore more in my repositories
+**Current Activities:**  
+- Exploring **Next.js** for server-side rendering projects.  
+- Learning advanced **React patterns** for enterprise applications.
 
 ---
 
