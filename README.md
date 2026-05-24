@@ -105,9 +105,6 @@ My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, a
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm"><br>npm
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel"><br>Vercel
-    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -126,7 +123,7 @@ My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, a
       <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Photoshop"><br>Photoshop
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svg" width="45" height="45" alt="SVG"><br>SVG
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel"><br>Vercel
     </td>
   </tr>
 </table>
