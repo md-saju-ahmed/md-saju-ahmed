@@ -43,9 +43,6 @@ My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, a
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"><br>CSS
     </td>
-    <!--<td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sass" width="45" height="45" alt="Sass"><br>Sass
-    </td>-->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"><br>Tailwind
     </td>
@@ -64,9 +61,6 @@ My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, a
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"><br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=astro" width="45" height="45" alt="Astro"><br>Astro
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"><br>Node.js
     </td>
     <td align="center" width="90">
@@ -74,6 +68,9 @@ My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, a
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"><br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=astro" width="45" height="45" alt="Astro"><br>Astro
     </td>
     <!--<td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"><br>Firebase
