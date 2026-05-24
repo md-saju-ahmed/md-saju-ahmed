@@ -14,11 +14,22 @@
 
 ## 🚀 About Me
 
-I build modern, scalable web applications with a focus on **performance**, **accessibility**, and **clean architecture**.  
+I’m a Full Stack Web Developer focused on building modern, scalable, and responsive web applications with clean architecture and intuitive user experiences.
 
-**Current Activities:**  
-- Exploring **Next.js** for server-side rendering projects.  
-- Learning advanced **React patterns** for enterprise applications.
+My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, and I enjoy developing fast, maintainable, and production-ready applications — especially eCommerce platforms and API-driven systems.
+
+### 🧠 Current Focus
+
+* Building scalable full-stack web applications
+* Learning backend development with **Node.js** and **Express**
+* Improving architecture patterns and application performance
+
+### 📌 What I Care About
+
+* Clean and maintainable code
+* Responsive UI/UX
+* Scalable system design
+* Performance optimization
 
 ---
 
@@ -32,9 +43,9 @@ I build modern, scalable web applications with a focus on **performance**, **acc
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"><br>CSS
     </td>
-    <td align="center" width="90">
+    <!--<td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=sass" width="45" height="45" alt="Sass"><br>Sass
-    </td>
+    </td>-->
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"><br>Tailwind
     </td>
@@ -66,10 +77,10 @@ I build modern, scalable web applications with a focus on **performance**, **acc
     </td>
     <!--<td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"><br>Firebase
-    </td>-->
+    </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery"><br>jQuery
-    </td>
+    </td>-->
   </tr>
 </table>
 
