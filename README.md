@@ -135,7 +135,7 @@ My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, a
 
 <p align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=md-saju-ahmed&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170 src="https://github-stats-extended.vercel.app/api/top-langs?username=md-saju-ahmed&layout=compact&langs_count=4&hide_values=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=md-saju-ahmed&layout=compact&hide_border=true&langs_count=4&hide_values=true" />
 </p>
 
 <p align="center">
