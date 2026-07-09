@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Fast%2C+Accessible+Web+Apps" alt="Typing SVG"></p>
 
 <h1 align="center">Hi 👋 I'm Saju</h1>
