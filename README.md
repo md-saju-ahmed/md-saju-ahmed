@@ -130,7 +130,12 @@ My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, a
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-saju-ahmed&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=md-saju-ahmed&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-saju-ahmed&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-saju-ahmed&hide_border=true" />
 </p>
 
 ---
