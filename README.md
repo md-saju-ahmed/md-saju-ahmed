@@ -138,6 +138,10 @@ My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, a
   <img src="https://github-readme-streak-stats.herokuapp.com?user=md-saju-ahmed&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-saju-ahmed&theme=github-compact&hide_border=true"/>
+</p>
+
 ---
 
 ## 🌐 Connect With Me
