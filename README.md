@@ -2,178 +2,109 @@
   <img src="./assets/banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Fast%2C+Accessible+Web+Apps" alt="Typing SVG"></p>
-
 <h1 align="center">Hi 👋 I'm Saju</h1>
-<p align="center"><b>Full Stack Web Developer</b> from Bangladesh 🇧🇩</p>
+<p align="center"><b>Full Stack Developer</b> from Bangladesh 🇧🇩</p>
 
 <p align="center">
-  <a href="https://mdsajuahmed.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=astro&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/md-saju-ahmed"><img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:contact.mdsajuahmed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mdsajuahmed.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/md-saju-ahmed"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:contact.mdsajuahmed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I’m a Full Stack Web Developer focused on building modern, scalable, and responsive web applications with clean architecture and intuitive user experiences.
+I am a Full Stack Developer who has built three production-grade platforms across job search, healthcare, and developer-tooling domains. I focus on backend correctness, security, and data integrity — idempotent payment flows, role-based access control, JWT/JWKS verification, and transactional consistency.
 
-My strongest stack includes **JavaScript (ES6+)**, **React**, and **Next.js**, and I enjoy developing fast, maintainable, and production-ready applications — especially eCommerce platforms and API-driven systems.
-
-### 🧠 Current Focus
-
-* Building scalable full-stack web applications
-* Learning backend development with **Node.js** and **Express**
-* Improving architecture patterns and application performance
-
-### 📌 What I Care About
-
-* Clean and maintainable code
-* Responsive UI/UX
-* Scalable system design
-* Performance optimization
+I am currently deepening my expertise in secure API design and payment system architecture, while continuing to build with React, Next.js, TypeScript, and Node.js/Express.
 
 ---
 
-## 🧠 Tech Stack
+## Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML"><br>HTML
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"><br>CSS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"><br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap"><br>Bootstrap
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"><br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"><br>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"><br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"><br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"><br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"><br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=astro" width="45" height="45" alt="Astro"><br>Astro
-    </td>
-    <!--<td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"><br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery"><br>jQuery
-    </td>-->
-  </tr>
-</table>
+**[CareerPilot](https://careerpilot-client.vercel.app/)** — AI-Powered Job Board & Career Platform
+Built an AI Career Advisor and Cover Letter Generator using the Google Gemini API with Zod-validated, auto-retrying responses. Enforced RBAC across Next.js middleware, React route guards, and Express ownership checks; closed an open-redirect vulnerability in login.
+
+`Next.js` `TypeScript` `Express` `MongoDB` `Gemini API` `Zod`
+
+[Live Site](https://careerpilot-client.vercel.app/) · [Client Repo](https://github.com/md-saju-ahmed/careerpilot-client) · [Server Repo](https://github.com/md-saju-ahmed/careerpilot-server)
+
+<br />
+
+**[Medicare Connect](https://medicare-connect-client-iota.vercel.app)** — Full Stack Healthcare Platform
+Three-role appointment platform for patients, doctors, and admins with an idempotent Stripe payment flow that re-verifies checkout sessions before confirming bookings. Closed an IDOR vulnerability and prevented double-booking with pre-insert conflict checks.
+
+`Next.js` `Node.js` `Express` `MongoDB` `Stripe`
+
+[Live Site](https://medicare-connect-client-iota.vercel.app) · [Client Repo](https://github.com/md-saju-ahmed/medicare-connect-client) · [Server Repo](https://github.com/md-saju-ahmed/medicare-connect-server)
+
+<br />
+
+**[StackPulse](https://stackpulse-client.vercel.app/)** — Developer Tools Discovery Platform
+Searchable dev tools directory with a three-state admin moderation queue. Kept ratings and review counts consistent using MongoDB transactions; reduced redundant requests with TanStack Query caching and debounced search.
+
+`Next.js` `TypeScript` `Express` `MongoDB` `TanStack Query` `Zod`
+
+[Live Site](https://stackpulse-client.vercel.app/) · [Client Repo](https://github.com/md-saju-ahmed/stackpulse-client) · [Server Repo](https://github.com/md-saju-ahmed/stackpulse-server)
 
 ---
 
-## 🧩 Tools & Technologies
+## Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"><br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"><br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"><br>VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma"><br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=npm" width="45" height="45" alt="npm"><br>npm
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel"><br>Vercel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=netlify" width="45" height="45" alt="Netlify"><br>Netlify
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="45" height="45" alt="Cloudflare"><br>Cloudflare
-    </td>
-    <!--<td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"><br>AWS
-    </td>-->
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=notion" width="45" height="45" alt="Notion"><br>Notion
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Photoshop"><br>Photoshop
-    </td>
-  </tr>
-</table>
+**Languages**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Backend & Database**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+**Tools & Platforms**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-## 📈 GitHub Insights
+## GitHub Insights
 
 <p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=md-saju-ahmed&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=md-saju-ahmed&layout=compact&hide_border=true&langs_count=4&hide_values=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=md-saju-ahmed&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=md-saju-ahmed&layout=compact&hide_border=true&langs_count=4&hide_values=true" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=md-saju-ahmed&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-saju-ahmed&theme=github-compact&hide_border=true"/>
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/themdsajuahmed"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/mdsajuahmed"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="mailto:contact.mdsajuahmed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<table>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://www.linkedin.com/in/mdsajuahmed" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn">
-      </a><br>LinkedIn
-    </td>
-    <td align="center" width="90">
-      <a href="https://twitter.com/themdsajuahmed" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter">
-      </a><br>Twitter
-    </td>
-    <td align="center" width="90">
-      <a href="https://dev.to/mdsajuahmed" target="_blank">
-        <img src="https://skillicons.dev/icons?i=devto" width="45" height="45" alt="Dev.to">
-      </a><br>Dev.to
-    </td>
-  </tr>
-</table>
-
----
-
-## ☕ Support My Work
-
-<a href="https://www.buymeacoffee.com/mdsajuahmed" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:48px;width:171px;">
-</a>
