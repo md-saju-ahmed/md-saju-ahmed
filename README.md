@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://mdsajuahmed.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/md-saju-ahmed"><img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:contact.mdsajuahmed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/md-saju-ahmed?tab=followers"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/md-saju-ahmed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=md-saju-ahmed&style=for-the-badge&color=12100E&label=Views" />
 </p>
 
 ---
