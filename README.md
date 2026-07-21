@@ -89,17 +89,9 @@ Searchable dev tools directory with a three-state admin moderation queue. Kept r
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=md-saju-ahmed&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=default_repocard"
-  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=md-saju-ahmed&hide_title=true&langs_count=6&theme=default_repocard" 
-  />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-saju-ahmed&hide_title=true&theme=github-light&hide_border=true&area=true" width="100%"
   />
 </p>
-
 
 ---
 
