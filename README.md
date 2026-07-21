@@ -94,7 +94,7 @@ Searchable dev tools directory with a three-state admin moderation queue. Kept r
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-saju-ahmed" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-saju-ahmed&theme=github-light" />
 </p>
 
 ---
