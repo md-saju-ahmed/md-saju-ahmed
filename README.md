@@ -89,20 +89,17 @@ Searchable dev tools directory with a three-state admin moderation queue. Kept r
 ## GitHub Insights
 
 <p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=md-saju-ahmed&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=default_repocard" height="185"
+  <img src="https://github-stats-extended.vercel.app/api?username=md-saju-ahmed&rank_icon=default&hide_rank=true&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=default_repocard" height="195"
   />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=md-saju-ahmed&custom_title=Top%20Languages&langs_count=4&theme=default_repocard" height="185"
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=md-saju-ahmed&custom_title=Top%20Languages&langs_count=4&theme=default_repocard" height="195"
   />
 </p>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=md-saju-ahmed&custom_title=Contribution%20Graph&theme=github-light&hide_border=true&area=true"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-saju-ahmed&custom_title=Contribution%20Graph&theme=github-light&hide_border=true&area=true" width="100%"
   />
 </p>
+
 
 ---
 
