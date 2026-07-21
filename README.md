@@ -15,9 +15,14 @@
 
 ## About
 
-I am a Full Stack Developer who has built three production-grade platforms across job search, healthcare, and developer-tooling domains. I focus on backend correctness, security, and data integrity — idempotent payment flows, role-based access control, JWT/JWKS verification, and transactional consistency.
+I am a Full Stack Developer from Bangladesh passionate about building scalable web applications and solving real-world problems. I primarily work with Next.js, TypeScript, Node.js, Express, and MongoDB, with a strong focus on backend architecture, security, and data integrity.
 
-I am currently deepening my expertise in secure API design and payment system architecture, while continuing to build with React, Next.js, TypeScript, and Node.js/Express.
+### Current Activities
+
+- Building production-ready full stack applications with Next.js and TypeScript
+- Exploring AI integrations using the Google Gemini API
+- Learning secure API design, authentication, and payment system architecture
+- Improving data structures, algorithms, and system design skills
 
 ---
 
