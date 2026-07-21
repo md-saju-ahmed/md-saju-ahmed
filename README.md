@@ -9,7 +9,6 @@
   <a href="https://mdsajuahmed.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/md-saju-ahmed?tab=followers"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/md-saju-ahmed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
-  <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=md-saju-ahmed&style=for-the-badge&color=12100E&label=Views" />
 </p>
 
 ---
@@ -24,7 +23,7 @@ I am currently deepening my expertise in secure API design and payment system ar
 
 ## Featured Projects
 
-**[CareerPilot](https://careerpilot-client.vercel.app/)** — AI-Powered Job Board & Career Platform
+**[CareerPilot](https://careerpilot-client.vercel.app/)** — AI-Powered Job Board & Career Platform  
 Built an AI Career Advisor and Cover Letter Generator using the Google Gemini API with Zod-validated, auto-retrying responses. Enforced RBAC across Next.js middleware, React route guards, and Express ownership checks; closed an open-redirect vulnerability in login.
 
 `Next.js` `TypeScript` `Express` `MongoDB` `Gemini API` `Zod`
@@ -33,7 +32,7 @@ Built an AI Career Advisor and Cover Letter Generator using the Google Gemini AP
 
 <br />
 
-**[Medicare Connect](https://medicare-connect-client-iota.vercel.app)** — Full Stack Healthcare Platform
+**[Medicare Connect](https://medicare-connect-client-iota.vercel.app)** — Full Stack Healthcare Platform  
 Three-role appointment platform for patients, doctors, and admins with an idempotent Stripe payment flow that re-verifies checkout sessions before confirming bookings. Closed an IDOR vulnerability and prevented double-booking with pre-insert conflict checks.
 
 `Next.js` `Node.js` `Express` `MongoDB` `Stripe`
@@ -42,7 +41,7 @@ Three-role appointment platform for patients, doctors, and admins with an idempo
 
 <br />
 
-**[StackPulse](https://stackpulse-client.vercel.app/)** — Developer Tools Discovery Platform
+**[StackPulse](https://stackpulse-client.vercel.app/)** — Developer Tools Discovery Platform  
 Searchable dev tools directory with a three-state admin moderation queue. Kept ratings and review counts consistent using MongoDB transactions; reduced redundant requests with TanStack Query caching and debounced search.
 
 `Next.js` `TypeScript` `Express` `MongoDB` `TanStack Query` `Zod`
