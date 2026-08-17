@@ -15,7 +15,7 @@
 
 ## About
 
-I am a Full Stack Developer from Bangladesh passionate about building scalable web applications and solving real-world problems. I primarily work with Next.js, TypeScript, Node.js, Express, and MongoDB, with a strong focus on backend architecture, security, and data integrity.
+I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.js. I build secure, reliable, and scalable web applications with a strong focus on backend architecture, authentication, API design, and data integrity.
 
 ### Current Activities
 
@@ -23,35 +23,6 @@ I am a Full Stack Developer from Bangladesh passionate about building scalable w
 - Exploring AI integrations using the Google Gemini API
 - Learning secure API design, authentication, and payment system architecture
 - Improving data structures, algorithms, and system design skills
-
----
-
-## Featured Projects
-
-**[CareerPilot](https://careerpilot-client.vercel.app/)** — AI-Powered Job Board & Career Platform  
-Built an AI Career Advisor and Cover Letter Generator using the Google Gemini API with Zod-validated, auto-retrying responses. Enforced RBAC across Next.js middleware, React route guards, and Express ownership checks; closed an open-redirect vulnerability in login.
-
-`Next.js` `TypeScript` `Express` `MongoDB` `Gemini API` `Zod`
-
-[Live Site](https://careerpilot-client.vercel.app/) · [Client Repo](https://github.com/md-saju-ahmed/careerpilot-client) · [Server Repo](https://github.com/md-saju-ahmed/careerpilot-server)
-
-<br />
-
-**[Medicare Connect](https://medicare-connect-client-iota.vercel.app)** — Full Stack Healthcare Platform  
-Three-role appointment platform for patients, doctors, and admins with an idempotent Stripe payment flow that re-verifies checkout sessions before confirming bookings. Closed an IDOR vulnerability and prevented double-booking with pre-insert conflict checks.
-
-`Next.js` `Node.js` `Express` `MongoDB` `Stripe`
-
-[Live Site](https://medicare-connect-client-iota.vercel.app) · [Client Repo](https://github.com/md-saju-ahmed/medicare-connect-client) · [Server Repo](https://github.com/md-saju-ahmed/medicare-connect-server)
-
-<br />
-
-**[StackPulse](https://stackpulse-client.vercel.app/)** — Developer Tools Discovery Platform  
-Searchable dev tools directory with a three-state admin moderation queue. Kept ratings and review counts consistent using MongoDB transactions; reduced redundant requests with TanStack Query caching and debounced search.
-
-`Next.js` `TypeScript` `Express` `MongoDB` `TanStack Query` `Zod`
-
-[Live Site](https://stackpulse-client.vercel.app/) · [Client Repo](https://github.com/md-saju-ahmed/stackpulse-client) · [Server Repo](https://github.com/md-saju-ahmed/stackpulse-server)
 
 ---
 
@@ -70,6 +41,8 @@ Searchable dev tools directory with a three-state admin moderation queue. Kept r
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
 **Backend & Database**
@@ -77,7 +50,17 @@ Searchable dev tools directory with a three-state admin moderation queue. Kept r
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+**Integrations**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -86,7 +69,6 @@ Searchable dev tools directory with a three-state admin moderation queue. Kept r
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
