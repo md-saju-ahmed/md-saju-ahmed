@@ -73,12 +73,12 @@ I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.
 
 ---
 
-## GitHub Insights
+<!--## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-saju-ahmed&hide_title=true&theme=github-light&hide_border=true&area=true" width="100%"
   />
-</p>
+</p>-->
 
 ---
 
