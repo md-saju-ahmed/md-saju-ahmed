@@ -80,8 +80,6 @@ I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.
   />
 </p>-->
 
----
-
 ## Connect
 
 <p align="left">
