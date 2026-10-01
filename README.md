@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="./assets/banner.png" alt="GitHub Banner" width="100%" />
-</p>
+</p>-->
 
 <h1 align="center">Hi 👋 I'm Saju</h1>
 <p align="center"><b>Full Stack Developer</b> from Bangladesh 🇧🇩</p>
