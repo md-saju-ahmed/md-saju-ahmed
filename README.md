@@ -11,8 +11,6 @@
   <a href="https://github.com/md-saju-ahmed?tab=followers"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/md-saju-ahmed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
 </p>
 
----
-
 ## ✦ About
 
 I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.js. I build secure, reliable, and scalable web applications with a strong focus on backend architecture, authentication, API design, and data integrity.
@@ -23,8 +21,6 @@ I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.
 - Exploring AI integrations using the Google Gemini API
 - Learning secure API design, authentication, and payment system architecture
 - Improving data structures, algorithms, and system design skills
-
----
 
 ## ✦ Tech Stack
 
@@ -70,8 +66,6 @@ I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.
   <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
-
----
 
 <!--## GitHub Insights
 
