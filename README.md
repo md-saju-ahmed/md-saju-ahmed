@@ -13,11 +13,11 @@
 
 ---
 
-## About
+## ✦ About
 
 I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.js. I build secure, reliable, and scalable web applications with a strong focus on backend architecture, authentication, API design, and data integrity.
 
-### Current Activities
+### ✦ Current Activities
 
 - Building production-ready full stack applications with Next.js and TypeScript
 - Exploring AI integrations using the Google Gemini API
@@ -26,7 +26,7 @@ I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.
 
 ---
 
-## Tech Stack
+## ✦ Tech Stack
 
 **Languages**
 
@@ -80,7 +80,7 @@ I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.
   />
 </p>-->
 
-## Connect
+## ✦ Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
