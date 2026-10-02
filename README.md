@@ -1,26 +1,14 @@
-<!--<p align="center">
-  <img src="./assets/banner.png" alt="GitHub Banner" width="100%" />
-</p>-->
-
 <h1 align="center">Hi 👋 I'm Saju</h1>
 <p align="center"><b>Full Stack Developer</b> from Bangladesh 🇧🇩</p>
 
 <p align="center">
   <a href="https://mdsajuahmed.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/md-saju-ahmed?tab=followers"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/md-saju-ahmed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
 </p>
 
 ## ✦ About
 
 I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.js. I build secure, reliable, and scalable web applications with a strong focus on backend architecture, authentication, API design, and data integrity.
-
-### ✦ Current Activities
-
-- Building production-ready full stack applications with Next.js and TypeScript
-- Exploring AI integrations using the Google Gemini API
-- Learning secure API design, authentication, and payment system architecture
-- Improving data structures, algorithms, and system design skills
 
 ## ✦ Tech Stack
 
@@ -67,17 +55,9 @@ I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<!--## GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=md-saju-ahmed&hide_title=true&theme=github-light&hide_border=true&area=true" width="100%"
-  />
-</p>-->
-
 ## ✦ Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mdsajuahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/themdsajuahmed"><img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://dev.to/mdsajuahmed"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="mailto:contact.mdsajuahmed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
