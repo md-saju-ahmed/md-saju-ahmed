@@ -8,7 +8,9 @@
 
 ## ✦ About
 
-I am a Full Stack Developer from Bangladesh specializing in TypeScript and Next.js. I build secure, reliable, and scalable web applications with a strong focus on backend architecture, authentication, API design, and data integrity.
+I specialize in TypeScript and Next.js, building reliable web applications with a strong focus on backend architecture, authentication, API design, and data integrity. I enjoy building products end to end, from database schema and APIs to the frontend and deployment, with an emphasis on clean, maintainable code.
+
+I also work with Stripe for payment integrations and the Google Gemini API for AI-powered features.
 
 ## ✦ Tech Stack
 
