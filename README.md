@@ -8,7 +8,9 @@
 
 ## ✦ About
 
-I specialize in TypeScript and Next.js, building reliable web applications with a strong focus on backend architecture, authentication, API design, and data integrity. I enjoy building products end to end, from database schema and APIs to the frontend and deployment, with an emphasis on clean, maintainable code.
+I specialize in TypeScript, Next.js, and NestJS, building reliable, scalable web applications with a strong focus on backend architecture, API design, authentication, database optimization, and data integrity.
+
+I enjoy building products end to end, from database design and business logic to frontend development, testing, and deployment, with an emphasis on clean, maintainable code and performance.
 
 I also work with Stripe for payment integrations and the Google Gemini API for AI-powered features.
 
@@ -32,6 +34,7 @@ I also work with Stripe for payment integrations and the Google Gemini API for A
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
 </p>
 
@@ -40,9 +43,11 @@ I also work with Stripe for payment integrations and the Google Gemini API for A
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
