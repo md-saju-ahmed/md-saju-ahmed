@@ -75,7 +75,7 @@ I also work with Stripe for payment integrations and the Google Gemini API for A
 ## ✦ Connect
 
 <p align="left">
-  <a href="https://x.com/themdsajuahmed"><img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/itsmdsajuahmed"><img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://dev.to/mdsajuahmed"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="mailto:contact.mdsajuahmed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
